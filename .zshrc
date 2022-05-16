@@ -107,7 +107,7 @@ alias emacs="emacs -nw"
 alias dm="emacs --with-profile=doom"
 
 export LEDGER_FILE=~/finances/current.journal
-export PATH=$HOME/.emacs.d/bin:$PATH
+export PATH=$HOME/doom-emacs/bin:$PATH
 export GOPATH=$HOME/go
 export GOROOT=/usr/local/opt/go/libexec
 export PATH=$PATH:$GOPATH/bin
