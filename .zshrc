@@ -104,7 +104,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias emacs="emacs -nw"
-alias doom="emacs --with-profile=doom"
+alias dm="emacs --with-profile=doom"
 
 export LEDGER_FILE=~/finances/current.journal
 export PATH=$HOME/.emacs.d/bin:$PATH
